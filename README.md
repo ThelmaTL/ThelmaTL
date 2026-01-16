@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**ThelmaTL/ThelmaTL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Thelma, a skilled Data analyst.
 
-Here are some ideas to get you started:
+I enjoy sloving business problems with data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning Machine learning and AI Engineering.
+
+I will be uploading projects, experiments and things i'm currently working on. Everything here is built from scratch, no copy/paste templates.
+
+Open to internships, collaborations and junior data role.
+
+Tools & Tech:
+Phyton, SQL, Power BI & Excel
+
+
